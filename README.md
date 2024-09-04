@@ -1,4 +1,2 @@
 # Virtual_Memory_Manager
-Tkinter-based GUI application to simulate virtual memory management using FIFO and Optimal page
-replacement algorithms.
-
+A Tkinter-based graphical user interface (GUI) application designed to simulate virtual memory management. This tool effectively demonstrates the working of page replacement algorithms, including First-In-First-Out (FIFO) and Optimal replacement. The application provides an interactive and educational experience for understanding the intricacies of virtual memory management in modern computing systems.
